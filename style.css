@@ -1,0 +1,9 @@
+/* Large */
+.navigation {
+    display: flex;
+    flex-direction: row;
+    /* This aligns items to the end line on main-axis */
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
